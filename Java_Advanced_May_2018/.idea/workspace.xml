@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b94c373a-6cfb-4771-9db9-9ee4bf3f15af" name="Default" comment="" />
+    <list default="true" id="b94c373a-6cfb-4771-9db9-9ee4bf3f15af" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,16 +14,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="Game_of_names.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Game_of_names.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="567">
+              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Read_Input.java" />
+        <option value="$PROJECT_DIR$/src/Read_input.java" />
+        <option value="$PROJECT_DIR$/src/Average_of_three_numbers.java" />
+        <option value="$PROJECT_DIR$/src/Euro_trip.java" />
+        <option value="$PROJECT_DIR$/src/Greeting.java" />
+        <option value="$PROJECT_DIR$/src/Transport_price.java" />
+        <option value="$PROJECT_DIR$/src/Numbers_0_9.java" />
+        <option value="$PROJECT_DIR$/src/Product_of_numbers_N_M.java" />
+        <option value="$PROJECT_DIR$/src/Lottery.java" />
+        <option value="$PROJECT_DIR$/src/Extract_a_Bit_from_Integer.java" />
+        <option value="$PROJECT_DIR$/src/Modify_a_bit.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Average_of_three_numbers.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Euro_trip.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Extract_a_Bit_from_Integer.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Greeting.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Lottery.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Modify_a_bit.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Numbers_0_9.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Product_of_numbers_N_M.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Read_input.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/lab/Transport_price.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Rectangle_area.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Triangle_area.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Formatting_numbers.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Calculate_expression.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Odd_and_even_pairs.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Hit_the_target.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Charecter_multipier.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Get_first_odd_or_even_elements.java" />
+        <option value="$PROJECT_DIR$/src/Intro_to_Java/exercises/Game_of_names.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -38,12 +86,13 @@
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,12 +105,40 @@
               <item name="Java_Advanced_May_2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Advanced_May_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Advanced_May_2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro_to_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Advanced_May_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Advanced_May_2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro_to_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_Advanced_May_2018" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_Advanced_May_2018" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Java_Advanced_May_2018" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_Advanced_May_2018" type="616d4139:PackageViewModuleNode" />
+              <item name="Intro_to_Java" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,13 +158,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Game_of_names">
+    <configuration name="Charecter_multipier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intro_to_Java.exercises.Charecter_multipier" />
       <module name="Java_Advanced_May_2018" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intro_to_Java.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Game_of_names" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intro_to_Java.exercises.Game_of_names" />
+      <module name="Java_Advanced_May_2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intro_to_Java.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Get_first_odd_or_even_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intro_to_Java.exercises.Get_first_odd_or_even_elements" />
+      <module name="Java_Advanced_May_2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intro_to_Java.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Hit_the_target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intro_to_Java.exercises.Hit_the_target" />
+      <module name="Java_Advanced_May_2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intro_to_Java.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Odd_and_even_pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intro_to_Java.exercises.Odd_and_even_pairs" />
+      <module name="Java_Advanced_May_2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intro_to_Java.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -104,6 +224,22 @@
       <envs />
       <method />
     </configuration>
+    <list>
+      <item itemvalue="Application.Odd_and_even_pairs" />
+      <item itemvalue="Application.Hit_the_target" />
+      <item itemvalue="Application.Charecter_multipier" />
+      <item itemvalue="Application.Get_first_odd_or_even_elements" />
+      <item itemvalue="Application.Game_of_names" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game_of_names" />
+        <item itemvalue="Application.Get_first_odd_or_even_elements" />
+        <item itemvalue="Application.Charecter_multipier" />
+        <item itemvalue="Application.Hit_the_target" />
+        <item itemvalue="Application.Odd_and_even_pairs" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -116,37 +252,56 @@
       <option name="presentableId" value="Default" />
       <updated>1526324216210</updated>
       <workItem from="1526324223999" duration="16000" />
-      <workItem from="1526324300558" duration="489000" />
+      <workItem from="1526324300558" duration="5039000" />
+      <workItem from="1526409542085" duration="871000" />
+      <workItem from="1526493720660" duration="12090000" />
     </task>
+    <task id="LOCAL-00001" summary="Intro to Java is Done!">
+      <created>1526329216892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526329216892</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Intro to Java exercises in progress.&#10;Up.">
+      <created>1526506874803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526506874803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="505000" />
+    <option name="totallyTimeSpent" value="18016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32985657" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895698" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -161,7 +316,31 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intro to Java is Done!" />
+    <MESSAGE value="Intro to Java exercises in progress.&#10;Up." />
+    <option name="LAST_COMMIT_MESSAGE" value="Intro to Java exercises in progress.&#10;Up." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Rectangle_area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Rectangle_area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -172,7 +351,161 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/exercises/Rectangle_area.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Average_of_three_numbers.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Transport_price.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Euro_trip.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Read_input.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Greeting.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Extract_a_Bit_from_Integer.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Numbers_0_9.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Modify_a_bit.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Lottery.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Product_of_numbers_N_M.java" />
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Average_of_three_numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Euro_trip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Extract_a_Bit_from_Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Greeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Lottery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Modify_a_bit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Numbers_0_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Product_of_numbers_N_M.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Read_input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/lab/Transport_price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Rectangle_area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Triangle_area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Formatting_numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Calculate_expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Hit_the_target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Charecter_multipier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Odd_and_even_pairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/ToIntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Get_first_odd_or_even_elements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro_to_Java/exercises/Game_of_names.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
         </state>
       </provider>
     </entry>
