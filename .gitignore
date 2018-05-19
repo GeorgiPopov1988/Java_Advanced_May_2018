@@ -2,3 +2,6 @@
 Java_Advanced_May_2018/.idea/workspace.xml
 Java_Advanced_May_2018/.idea/vcs.xml
 Java_Advanced_May_2018/.idea/workspace.xml
+*.xml
+*.class
+*.xml
