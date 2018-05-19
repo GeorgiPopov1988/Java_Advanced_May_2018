@@ -2,49 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94c373a-6cfb-4771-9db9-9ee4bf3f15af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Average_of_three_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Euro_trip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Extract_a_Bit_from_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Modify_a_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Numbers_0_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Product_of_numbers_N_M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Read_input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intro_to_Java/lab/Transport_price.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/exercises/Diagonal_difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/exercises/Fill_the_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/exercises/Matrix_of_polindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/exercises/Maximal_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/arrays_and_lists/Encrypt_sort_and_print_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/arrays_and_lists/Maximum_sum_of_2x2_submatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/arrays_and_lists/Split_by_word_casing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/arrays_and_lists/Sum_matrix_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/stack_and_queues/Decimal_to_binary_converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/stack_and_queues/Hot_potato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/stack_and_queues/Matching_brackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/stack_and_queues/Math_potato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear_structures/lab/stack_and_queues/Simple_calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Calculate_expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Calculate_expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Charecter_multipier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Charecter_multipier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Formatting_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Formatting_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Game_of_names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Game_of_names.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Get_first_odd_or_even_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Get_first_odd_or_even_elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Hit_the_target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Hit_the_target.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Odd_and_even_pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Odd_and_even_pairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Rectangle_area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Rectangle_area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/exercises/Triangle_area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro_to_Java/exercises/Triangle_area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Average_of_three_numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Euro_trip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Extract_a_Bit_from_Integer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Greeting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Lottery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Modify_a_bit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Numbers_0_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Product_of_numbers_N_M.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Read_input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/lab/Transport_price.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Average_of_three_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Average_of_three_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Euro_trip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Euro_trip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Extract_a_Bit_from_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Extract_a_Bit_from_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Lottery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Modify_a_bit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Modify_a_bit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Numbers_0_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Numbers_0_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Product_of_numbers_N_M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Product_of_numbers_N_M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Read_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Read_input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intro_to_Java/lab/Transport_price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intro_to_Java/lab/Transport_price.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -378,7 +346,7 @@
       <workItem from="1526664287526" duration="8380000" />
       <workItem from="1526675197862" duration="605000" />
       <workItem from="1526701770425" duration="6469000" />
-      <workItem from="1526756328818" duration="1278000" />
+      <workItem from="1526756328818" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="Intro to Java is Done!">
       <created>1526329216892</created>
@@ -405,7 +373,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40932000" />
+    <option name="totallyTimeSpent" value="41185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -417,15 +385,15 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50069445" side_tool="true" weight="0.32985657" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.32985657" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -450,7 +418,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intro to Java is Done!" />
     <MESSAGE value="Intro to Java exercises in progress.&#10;Up." />
-    <option name="LAST_COMMIT_MESSAGE" value="Intro to Java exercises in progress.&#10;Up." />
+    <MESSAGE value="Linear structures - lab." />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear structures - lab." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -704,6 +673,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -711,6 +683,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -718,6 +693,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
