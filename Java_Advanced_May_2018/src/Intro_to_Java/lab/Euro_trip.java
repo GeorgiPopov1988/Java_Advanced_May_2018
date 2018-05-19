@@ -1,4 +1,4 @@
-package Intro_to_Java.lab;
+package intro_to_Java.lab;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

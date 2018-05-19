@@ -1,4 +1,4 @@
-package Intro_to_Java.lab;
+package intro_to_Java.lab;
 
 public class Lottery {
   public static void main(String[] args) {

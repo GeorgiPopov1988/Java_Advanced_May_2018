@@ -1,4 +1,4 @@
-package Intro_to_Java.lab;
+package intro_to_Java.lab;
 
 public class Numbers_0_9 {
   public static void main(String[] args) {
