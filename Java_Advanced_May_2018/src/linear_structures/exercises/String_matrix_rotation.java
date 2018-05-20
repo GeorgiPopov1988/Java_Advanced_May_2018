@@ -20,7 +20,9 @@ public class String_matrix_rotation {
     int rows = words.size();
     int cols = max.length();
     char[][] matrix = new char[rows][cols];
+    
     fillTheMatrix(words, rows, cols, matrix);
+    
     int rotationsCnt = getRotateionsCnt(commandTokens[1]);
     char[][] result;
     for (int i = 0; i < rotationsCnt; i++) {
