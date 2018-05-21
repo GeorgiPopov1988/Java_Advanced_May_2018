@@ -27,3 +27,5 @@ Java_Advanced_May_2018/src/linear_structures/exercises/Reverse_numbers_with_stac
 Java_Advanced_May_2018/src/linear_structures/exercises/Reverse_numbers_with_stack.java
 Java_Advanced_May_2018/src/linear_structures/exercises/Fill_the_matrix.java
 Java_Advanced_May_2018/.idea/workspace.xml
+*.java
+*.java
