@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b94c373a-6cfb-4771-9db9-9ee4bf3f15af" name="Default" comment="Stack - done.&#10;Queue - in progress.">
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/lab/Academy_graduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sets_and_maps/lab/Count_same_values_in_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sets_and_maps/lab/softUni_party.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sets_and_maps/lab/SoftUni_party.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +20,8 @@
       <file leaf-file-name="Parking_lot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Parking_lot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="357">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,29 +29,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/Test.java">
+      <file leaf-file-name="SoftUni_party.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/SoftUni_party.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="method#print#0;class#softUni_party#0" />
+                <element signature="method#inCommingGuests#0;class#softUni_party#0" />
+                <element signature="method#guestList#0;class#softUni_party#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tets.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Tets.java">
+      <file leaf-file-name="Voina.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Voina.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="343">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#fillDecks#0;class#Voina#0" />
+                <element signature="method#getWinnerByDeckSize#0;class#Voina#0" />
+                <element signature="method#voina#0;class#Voina#0" />
+                <element signature="method#checkForWinner#0;class#Voina#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="softUni_party.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/softUni_party.java">
+      <file leaf-file-name="Count_same_values_in_array.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Count_same_values_in_array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="168">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Academy_graduation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Academy_graduation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,10 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Greeting.java" />
-        <option value="$PROJECT_DIR$/src/Transport_price.java" />
-        <option value="$PROJECT_DIR$/src/Numbers_0_9.java" />
-        <option value="$PROJECT_DIR$/src/Product_of_numbers_N_M.java" />
         <option value="$PROJECT_DIR$/src/Lottery.java" />
         <option value="$PROJECT_DIR$/src/Extract_a_Bit_from_Integer.java" />
         <option value="$PROJECT_DIR$/src/Modify_a_bit.java" />
@@ -127,6 +153,10 @@
         <option value="$PROJECT_DIR$/src/linear_structures/exercises/Reverse_numbers_with_stack.java" />
         <option value="$PROJECT_DIR$/src/sets_and_maps/lab/Parking_lot.java" />
         <option value="$PROJECT_DIR$/src/sets_and_maps/lab/softUni_party.java" />
+        <option value="$PROJECT_DIR$/src/sets_and_maps/lab/voina.java" />
+        <option value="$PROJECT_DIR$/src/sets_and_maps/lab/Voina.java" />
+        <option value="$PROJECT_DIR$/src/sets_and_maps/lab/count_same_values_in_array.java" />
+        <option value="$PROJECT_DIR$/src/sets_and_maps/lab/Academy_graduation.java" />
       </list>
     </option>
   </component>
@@ -167,20 +197,13 @@
               <item name="Java_Advanced_May_2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Advanced_May_2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_to_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="sets_and_maps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Advanced_May_2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Advanced_May_2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_to_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Advanced_May_2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Advanced_May_2018" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_to_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="sets_and_maps" type="462c0819:PsiDirectoryNode" />
               <item name="lab" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -221,23 +244,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fill_the_matrix">
-    <configuration name="Basic_queue_operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linear_structures.lab.exercises.Basic_queue_operations" />
+  <component name="RunManager" selected="Application.Count_same_values_in_array">
+    <configuration name="Count_same_values_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets_and_maps.lab.Count_same_values_in_array" />
       <module name="Java_Advanced_May_2018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linear_structures.lab.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Basic_stack_operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linear_structures.lab.exercises.Basic_stack_operations" />
-      <module name="Java_Advanced_May_2018" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linear_structures.lab.exercises.*" />
+          <option name="PATTERN" value="sets_and_maps.lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,40 +265,50 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Maximal_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linear_structures.lab.exercises.Maximal_element" />
+    <configuration name="Parking_lot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets_and_maps.lab.Parking_lot" />
       <module name="Java_Advanced_May_2018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linear_structures.lab.exercises.*" />
+          <option name="PATTERN" value="sets_and_maps.lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Reverse_numbers_with_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linear_structures.lab.exercises.Reverse_numbers_with_stack" />
+    <configuration name="SoftUni_party" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets_and_maps.lab.SoftUni_party" />
       <module name="Java_Advanced_May_2018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linear_structures.lab.exercises.*" />
+          <option name="PATTERN" value="sets_and_maps.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Voina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets_and_maps.lab.Voina" />
+      <module name="Java_Advanced_May_2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sets_and_maps.lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Reverse_numbers_with_stack" />
-      <item itemvalue="Application.Basic_stack_operations" />
-      <item itemvalue="Application.Maximal_element" />
-      <item itemvalue="Application.Basic_queue_operations" />
       <item itemvalue="Application.Fill_the_matrix" />
+      <item itemvalue="Application.Parking_lot" />
+      <item itemvalue="Application.SoftUni_party" />
+      <item itemvalue="Application.Voina" />
+      <item itemvalue="Application.Count_same_values_in_array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_same_values_in_array" />
+        <item itemvalue="Application.Voina" />
+        <item itemvalue="Application.SoftUni_party" />
+        <item itemvalue="Application.Parking_lot" />
         <item itemvalue="Application.Fill_the_matrix" />
-        <item itemvalue="Application.Basic_queue_operations" />
-        <item itemvalue="Application.Maximal_element" />
-        <item itemvalue="Application.Basic_stack_operations" />
-        <item itemvalue="Application.Reverse_numbers_with_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +339,7 @@
       <workItem from="1526925896131" duration="842000" />
       <workItem from="1526927239456" duration="934000" />
       <workItem from="1526929027146" duration="1274000" />
-      <workItem from="1526930306647" duration="527000" />
+      <workItem from="1526930306647" duration="6895000" />
     </task>
     <task id="LOCAL-00001" summary="Intro to Java is Done!">
       <created>1526329216892</created>
@@ -367,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526849207010</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Up">
+      <created>1526935521628</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526935521628</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66820000" />
+    <option name="totallyTimeSpent" value="73188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -379,14 +409,15 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49930555" weight="0.32985657" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50277776" side_tool="true" visible="true" weight="0.20730117" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5034722" side_tool="true" weight="0.4876141" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" weight="0.20730117" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4965278" visible="true" weight="0.4876141" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -404,7 +435,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49930555" weight="0.32985657" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +452,8 @@
     <MESSAGE value="Matrix shuffling - done." />
     <MESSAGE value="String matrix rotation - done" />
     <MESSAGE value="Stack - done.&#10;Queue - in progress." />
-    <option name="LAST_COMMIT_MESSAGE" value="Stack - done.&#10;Queue - in progress." />
+    <MESSAGE value="Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -440,31 +471,10 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="36" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Numbers_0_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Product_of_numbers_N_M.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Read_input.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Transport_price.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -722,20 +732,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/softUni_party.java">
+    <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Tets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Parking_lot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -746,10 +746,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/intro_to_Java/lab/Tets.java">
+    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Parking_lot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/SoftUni_party.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="method#print#0;class#softUni_party#0" />
+            <element signature="method#inCommingGuests#0;class#softUni_party#0" />
+            <element signature="method#guestList#0;class#softUni_party#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Voina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#fillDecks#0;class#Voina#0" />
+            <element signature="method#getWinnerByDeckSize#0;class#Voina#0" />
+            <element signature="method#voina#0;class#Voina#0" />
+            <element signature="method#checkForWinner#0;class#Voina#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Count_same_values_in_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sets_and_maps/lab/Academy_graduation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

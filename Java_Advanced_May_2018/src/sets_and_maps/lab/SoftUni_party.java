@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class softUni_party {
+public class SoftUni_party {
   public static void main(String[] args) throws IOException {
     BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
   
